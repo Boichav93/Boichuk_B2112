@@ -22,11 +22,11 @@
 
 #№1010
 
-num = int(input())
-dec = num//10
-digit = num%10
-res = dec * digit
-print(res)
+# num = int(input())
+# dec = num//10
+# digit = num%10
+# res = dec * digit
+# print(res)
 #№1012
 
 # a = int(input())
@@ -41,9 +41,7 @@ print(res)
 
 #№1015
 
-# N = int(input())
-# N = int(N)/60
-# print(N)
+#
 
 #№1016
 
