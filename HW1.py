@@ -1,3 +1,4 @@
+#https://itstepedu-my.sharepoint.com/:u:/g/personal/boichuk_a_student_itstep_org/ETSVu-WW1j1In0cwDJGbTbMBVATST5TH3H3xVlmDJiEdvQ?e=cNFwwB
 #№1004
 
 # num = float(input())
