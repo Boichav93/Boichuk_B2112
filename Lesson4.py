@@ -43,3 +43,10 @@ sum_negative = 0
 for num in lst:
     if num < 0:sum_negative += num
 print("Sum negative item list: ",sum_negative)
+
+sum_of_even = 0
+
+for num in lst:
+    if num //2:sum_of_even += num
+print("Sum of even item list: ",sum_of_even)
+
